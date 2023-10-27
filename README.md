@@ -1,0 +1,2 @@
+# u2_CRUD_tblfabricantes_5i_CarlosH
+proyecto Crud
